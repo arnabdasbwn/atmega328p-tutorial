@@ -1,0 +1,7 @@
+# Local MPLAB and CMake output
+/cmake/
+/_build/
+/out/
+/build/
+/dist/
+/node_modules/

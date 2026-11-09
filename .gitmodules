@@ -1,0 +1,6 @@
+[submodule "atmega328p-hal"]
+	path = atmega328p-hal
+	url = https://github.com/arnabdasbwn/atmega328p-hal.git
+[submodule "atmega328p-labs"]
+	path = atmega328p-labs
+	url = https://github.com/arnabdasbwn/atmega328p-labs.git
